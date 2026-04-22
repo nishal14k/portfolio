@@ -5,12 +5,12 @@ function Projects() {
     {
       title: "Aircraft Engine Health Monitoring and Predictive Maintenance",
       description: "Built an end-to-end predictive maintenance system using the NASA CMAPSS dataset to forecast aircraft engine degradation and optimize maintenance scheduling. Accurately predicted Remaining Useful Life (RUL) and assessed failure risk in real-time.",
-      repoLink: "https://github.com/nishall4k/aircraft-engine-monitoring"
+      repoLink: "https://github.com/nishal14k/Predictive-Maintenance-for-Aircraft-Engines"
     },
     {
       title: "Legal and Medical Document Summarizer",
       description: "Built an NLP-based system to summarize legal and medical documents using transformer models. Applied parameter-efficient fine-tuning using LORA to adapt the T5 transformer, comparing it against Lead-3 and TextRank.",
-      repoLink: "https://github.com/nishall4k/document-summarizer"
+      repoLink: "https://github.com/nishal14k/Legal-Healthcare-Document-Summarization"
     }
   ];
 
